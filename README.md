@@ -38,10 +38,9 @@ Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying 
 3. *Smooth Checkout & Payment Process*
 4. *Price Comparison Feature*
 5. *Real-Time Stock Availability*
-6. *Secure Payment Methods*
-7. *Product Authenticity Assurance*
-8. *Accurate Product Listings*
-9. *Secure Order Verification on Delivery*
+6. *Product Authenticity Assurance*
+7. *Accurate Product Listings*
+8. *Secure Order Verification on Delivery*
 
 ### Non-Functional Requirements
 1. *User-Friendly Interface*
@@ -74,10 +73,9 @@ Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying 
 - Resolving Technical Issues
 
 ## Technology Stack
-- *Frontend*: HTML, CSS, JavaScript (React.js)
+- *Frontend*: React.js
 - *Backend*: Spring Boot (Java)
 - *Database*: MySQL
-- *Security*: JWT Authentication, SSL Encryption
 - *Hosting*: Localhost (for development), Cloud-based deployment (future enhancement)
 
 ## Installation
@@ -90,7 +88,7 @@ Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying 
 ### Steps to Set Up
 1. Clone the repository:
    sh
-   git clone https://github.com/Dhanuka2002/Lap-galaxy.git
+   git clone https://github.com/Dhanuka2002/Lap_galaxy.git
    cd lap-galaxy
    
 2. Install frontend dependencies:
