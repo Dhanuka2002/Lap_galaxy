@@ -15,7 +15,6 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Optional;
 
-
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/product")
@@ -72,7 +71,7 @@ public class ProductController {
 
         Product existingProduct = optionalProduct.get();
 
-        // Update only allowed fields (image not included, so leave it as-is)
+        //  Update only allowed fields (image not included, so leave it as-is)
         existingProduct.setName(dto.getName());
         existingProduct.setBrand(dto.getBrand());
         existingProduct.setCategory(dto.getCategory());
