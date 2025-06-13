@@ -1,7 +1,7 @@
 # Lap Galaxy - Online Laptop Selling Store
 
 ## Project Overview
-Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying and selling of laptops. The platform allows customers to browse, compare, and purchase laptops from various brands and configurations. It also provides store owners with tools to manage inventory, process orders, and analyze sales while ensuring a secure and user-friendly experience.
+Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying and selling of laptops. The platform allows customers to browse, compare, and purchase laptops from various brands and configurations. It also provides store owners with tools to manage inventory, process orders, compare the features between products and analyze sales while ensuring a secure and user-friendly experience.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
