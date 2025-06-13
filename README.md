@@ -90,7 +90,7 @@ Lap Galaxy is an e-commerce platform designed to facilitate the seamless buying 
 ### Steps to Set Up
 1. Clone the repository:
    sh
-   git clone https://github.com/your-username/lap-galaxy.git
+   git clone https://github.com/Dhanuka2002/Lap-galaxy.git
    cd lap-galaxy
    
 2. Install frontend dependencies:
